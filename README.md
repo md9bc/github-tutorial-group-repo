@@ -6,3 +6,4 @@ Everyone should create their own branch to edit this!
 | ---- 			 | ------------ | ------------------------- |
 | Mark Sherriff  | mss2x 	    | Went to Ocean Isle Beach, NC |
 | Kamille Foster | kef6de 		| Interned @ Vanguard & went on vacation |
+
