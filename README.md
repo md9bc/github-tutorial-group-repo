@@ -9,3 +9,4 @@ Everyone should create their own branch to edit this!
 | Parth Patidar  | pjp8yf 		| Interned @ Capital One                  |
 | Brandon Bright | bsb9hh       | Went to Virginia Beach, VA with family  |
 | Joshua Gross   | jmg6kw     | Interned @ Microsoft                    |
+| Kai Eubanks    | nke5ka       | Interned @ Appian                       |
