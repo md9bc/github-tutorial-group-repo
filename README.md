@@ -10,3 +10,4 @@ Everyone should create their own branch to edit this!
 | Brandon Bright | bsb9hh       | Went to Virginia Beach, VA with family  |
 | Joshua Gross   | jmg6kw     | Interned @ Microsoft                    |
 | Kai Eubanks    | nke5ka       | Interned @ Appian                       |
+| Seven Starosta | sbs3bx     | Interned/researched @ University of Sao Paulo, Brazil|
