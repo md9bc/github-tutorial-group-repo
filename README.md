@@ -12,3 +12,4 @@ Everyone should create their own branch to edit this!
 | Kai Eubanks    | nke5ka       | Interned @ Appian                       |
 | Chris Chueh    | chc3cc     | Interned @ Make School                  |
 | Ahmed Youssef  | ay6xp      | Interned @ Higher Logic                 |
+| Matias Rietig  | mjr9r      | Took exams back home & travelled to US  |
