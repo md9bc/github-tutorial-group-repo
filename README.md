@@ -11,3 +11,4 @@ Everyone should create their own branch to edit this!
 | Joshua Gross   | jmg6kw     | Interned @ Microsoft                    |
 | Kai Eubanks    | nke5ka       | Interned @ Appian                       |
 | Chris Chueh    | chc3cc     | Interned @ Make School                  |
+| Paul Ammer     | pda6ne       | Interned @ Northrop Grumman             |
