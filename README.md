@@ -25,3 +25,4 @@ Everyone should create their own branch to edit this!
 | Gabriella Greiner | ggg3xv  | Interned at Clark Construction  |
 | Anisha Kumar | ak4tr  | Interned @ CGI Federal |
 | Kathleen Ross | kr3ad | Went on a cross-country road trip |
+| Charles Hong | csh6cw | Went on a visit to South Korea |
