@@ -11,7 +11,7 @@ Everyone should create their own branch to edit this!
 | Joshua Gross   | jmg6kw     | Interned @ Microsoft                    |
 | Kai Eubanks    | nke5ka       | Interned @ Appian                       |
 | Chris Chueh    | chc3cc     | Interned @ Make School                  |
-| Joseph Tobin   | jat9kf     | Interned @ Microsoft                     | 
+| Joseph Tobin   | jat9kf     | Interned @ Microsoft                     |
 | Jonathan Lowe  | jl4ge      | Chilled with family                     |
 | Ahmed Youssef  | ay6xp      | Interned @ Higher Logic                 |
 | Paul Ammer     | pda6ne       | Interned @ Northrop Grumman             |
@@ -28,3 +28,4 @@ Everyone should create their own branch to edit this!
 | Charles Hong | csh6cw | Went on a visit to South Korea |
 | Timothy Davison | tfd2xq    | Interned @ Capital Group                |
 | Tyler Hutson | tth5rv    | Interned @ The College Board               |
+| Seven Starosta | sbs3bx    | Interned @ The University of Sao Paulo, Brazil |
