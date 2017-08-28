@@ -28,4 +28,4 @@ Everyone should create their own branch to edit this!
 | Charles Hong | csh6cw | Went on a visit to South Korea |
 | Timothy Davison | tfd2xq    | Interned @ Capital Group                |
 | Tyler Hutson | tth5rv    | Interned @ The College Board               |
-| Seven Starosta | sbs3bx    | Interned @ The University of Sao Paulo, Brazil |
+| Seven Starosta | sbs3bx | Interned @ University of Sao Paulo, Brazil |
