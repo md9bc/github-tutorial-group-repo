@@ -26,3 +26,4 @@ Everyone should create their own branch to edit this!
 | Anisha Kumar | ak4tr  | Interned @ CGI Federal |
 | Kathleen Ross | kr3ad | Went on a cross-country road trip |
 | Charles Hong | csh6cw | Went on a visit to South Korea |
+| Timothy Davison | tfd2xq    | Interned @ Capital Group                |
