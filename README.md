@@ -23,3 +23,4 @@ Everyone should create their own branch to edit this!
 | Fan Feng     | ff9sd      | Conducted Research at Predictive Technology Lab  |
 | Gabriella Greiner | ggg3xv  | Interned at Clark Construction  |
 | Anisha Kumar | ak4tr  | Interned @ CGI Federal |
+| Jodie Ryu | jjr6ak  | Interned @ IST Research & saw Eclipse in Nashville, TN |
