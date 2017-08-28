@@ -5,7 +5,6 @@ Everyone should create their own branch to edit this!
 | Name 			 | Computing ID | Thing you did this summer |
 | ---- 			 | ------------ | ------------------------- |
 | Mark Sherriff  | mss2x 	    | Went to Ocean Isle Beach, NC            |
-| Deeksha Reddy  | dpr5ks       | Interned @ Procter & Gamble             |
 | Kamille Foster | kef6de 		| Interned @ Vanguard & went on vacation  |
 | Parth Patidar  | pjp8yf 		| Interned @ Capital One                  |
 | Brandon Bright | bsb9hh       | Went to Virginia Beach, VA with family  |
@@ -17,3 +16,4 @@ Everyone should create their own branch to edit this!
 | Paul Ammer     | pda6ne       | Interned @ Northrop Grumman             |
 | Brigham Bangerter | bb3uc    | Interned @ IBM                         |
 | Victoria Li    | vl4kz      | Interned @ Noblis                       |
+| Deeksha Reddy  | dpr5ks       | Interned @ Procter & Gamble             |
