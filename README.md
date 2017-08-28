@@ -12,6 +12,7 @@ Everyone should create their own branch to edit this!
 | Kai Eubanks    | nke5ka       | Interned @ Appian                       |
 | Chris Chueh    | chc3cc     | Interned @ Make School                  |
 | Joseph Tobin   | jat9kf     | Interned @ Microsoft                     | 
+| Jonathan Lowe  | jl4ge      | Chilled with family                     |
 | Ahmed Youssef  | ay6xp      | Interned @ Higher Logic                 |
 | Paul Ammer     | pda6ne       | Interned @ Northrop Grumman             |
 | Brigham Bangerter | bb3uc    | Interned @ IBM                         |
@@ -21,4 +22,8 @@ Everyone should create their own branch to edit this!
 | Deeksha Reddy  | dpr5ks       | Interned @ Procter & Gamble             |
 | Dan Nguyen     | dn6dm      | Went to Cozumel, MX                     |
 | Fan Feng     | ff9sd      | Conducted Research at Predictive Technology Lab  |
+| Gabriella Greiner | ggg3xv  | Interned at Clark Construction  |
+| Anisha Kumar | ak4tr  | Interned @ CGI Federal |
+| Kathleen Ross | kr3ad | Went on a cross-country road trip |
+| Charles Hong | csh6cw | Went on a visit to South Korea |
 | Timothy Davison | tfd2xq    | Interned @ Capital Group                |
