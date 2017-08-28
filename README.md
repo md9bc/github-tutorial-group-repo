@@ -19,4 +19,4 @@ Everyone should create their own branch to edit this!
 | Jiaming Zhao   | jz4bm      | Interned @ Amazon                       |
 | Anthony Quach  | aq2js      | Interned @ Capital One                  |
 | Deeksha Reddy  | dpr5ks       | Interned @ Procter & Gamble             |
-
+| Kathleen Ross | kr3ad | Went on a cross-country road trip |
