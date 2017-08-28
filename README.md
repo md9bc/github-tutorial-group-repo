@@ -21,3 +21,4 @@ Everyone should create their own branch to edit this!
 | Deeksha Reddy  | dpr5ks       | Interned @ Procter & Gamble             |
 | Dan Nguyen     | dn6dm      | Went to Cozumel, MX                     |
 | Fan Feng     | ff9sd      | Conducted Research at Predictive Technology Lab  |
+| Gabriella Greiner | ggg3xv  | Interned at Clark Construction  |
