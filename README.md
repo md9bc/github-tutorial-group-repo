@@ -29,3 +29,4 @@ Everyone should create their own branch to edit this!
 | Timothy Davison | tfd2xq    | Interned @ Capital Group                |
 | Tyler Hutson | tth5rv    | Interned @ The College Board               |
 | Seven Starosta | sbs3bx | Interned @ University of Sao Paulo, Brazil |
+| Leonard Ramsey | lr3hj  | Interned @ Northrop Grumman |
