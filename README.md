@@ -17,6 +17,7 @@ Everyone should create their own branch to edit this!
 | Paul Ammer     | pda6ne       | Interned @ Northrop Grumman             |
 | Brigham Bangerter | bb3uc    | Interned @ IBM                         |
 | Victoria Li    | vl4kz      | Interned @ Noblis                       |
+| Monica Kuo     | mdk6jd       | Interned @ MITRE; explored Boston + Maine |
 | Jiaming Zhao   | jz4bm      | Interned @ Amazon                       |
 | Anthony Quach  | aq2js      | Interned @ Capital One                  |
 | Deeksha Reddy  | dpr5ks       | Interned @ Procter & Gamble             |
